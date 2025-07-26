@@ -1,0 +1,55 @@
+Date,Type,Category,Description,Amount
+2024-01-05,Income,Salary,Monthly Paycheck,3500.0
+2024-01-06,Expense,Rent,Monthly Apartment Rent,1200.0
+2024-01-08,Expense,Food,Weekly Groceries,85.5
+2024-01-10,Expense,Transport,Monthly Bus Pass,50.0
+2024-01-12,Expense,Utilities,Electricity Bill,70.25
+2024-01-15,Expense,Food,Restaurant Dinner,45.0
+2024-01-18,Expense,Entertainment,Movie Tickets,25.0
+2024-01-22,Expense,Health,Gym Membership,35.0
+2024-01-25,Income,Freelance,Project Alpha Payment,750.0
+2024-01-28,Expense,Shopping,New Shirt,60.0
+2024-02-05,Income,Salary,Monthly Paycheck,3500.0
+2024-02-08,Expense,Food,Weekly Groceries,92.0
+2024-02-12,Expense,Transport,Fuel,40.0
+2024-02-15,Expense,Utilities,Water Bill,30.0
+2024-02-18,Expense,Entertainment,Concert Ticket,70.0
+2024-02-22,Expense,Food,Takeout,30.0
+2024-02-28,Expense,Shopping,Books,20.0
+2024-03-05,Income,Salary,Monthly Paycheck,3500.0
+2024-03-08,Expense,Rent,Monthly Apartment Rent,1200.0
+2024-03-10,Expense,Food,Weekly Groceries,88.75
+2024-03-12,Expense,Transport,Bus Fare,10.0
+2024-03-15,Expense,Utilities,Internet Bill,45.0
+2024-03-18,Expense,Health,Doctor Visit,100.0
+2024-03-22,Expense,Food,Restaurant Lunch,25.0
+2024-03-25,Income,Bonus,Annual Bonus,1000.0
+2024-03-28,Expense,Shopping,New Shoes,80.0
+2024-04-05,Income,Salary,Monthly Paycheck,3500.0
+2024-04-08,Expense,Food,Weekly Groceries,95.0
+2024-04-10,Expense,Transport,Monthly Metro Card,55.0
+2024-04-12,Expense,Utilities,Electricity Bill,75.0
+2024-04-15,Expense,Entertainment,Streaming Service,15.0
+2024-04-18,Expense,Food,Takeout,35.0
+2024-04-22,Expense,Health,Dental Checkup,50.0
+2024-04-28,Expense,Shopping,New Headphones,120.0
+2024-05-05,Income,Salary,Monthly Paycheck,3500.0
+2024-05-08,Expense,Rent,Monthly Apartment Rent,1200.0
+2024-05-10,Expense,Food,Weekly Groceries,90.0
+2024-05-12,Expense,Transport,Fuel,42.0
+2024-05-15,Expense,Utilities,Water Bill,32.0
+2024-05-18,Expense,Entertainment,Gaming Subscription,10.0
+2024-05-22,Expense,Food,Restaurant Dinner,50.0
+2024-05-25,Income,Gift,Birthday Gift,200.0
+2024-05-28,Expense,Shopping,New Jeans,70.0
+2024-06-05,Income,Salary,Monthly Paycheck,3500.0
+2024-06-08,Expense,Food,Weekly Groceries,87.0
+2024-06-10,Expense,Transport,Bus Pass,50.0
+2024-06-12,Expense,Utilities,Internet Bill,45.0
+2024-06-15,Expense,Entertainment,Concert Tickets,90.0
+2024-06-18,Expense,Health,Pharmacy,20.0
+2024-06-22,Expense,Food,Takeout,28.0
+2024-06-28,Expense,Shopping,Gadget Accessory,40.0
+2025-07-26,Expense,Food,Dinner with friends,50.0
+2025-07-26,Income,Freelance,Web design project,1000.0
+2025-07-22,Expense,Entertainment,Movie ticket,20.0
