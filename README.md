@@ -55,7 +55,8 @@ This project is a personal finance tracker built entirely in Python, utilizing t
 * Develop more advanced financial metrics (e.g., savings rate, debt-to-income ratio).
 * Explore interactive visualization libraries like Plotly or Bokeh.
 
-## Author
+## Contact
 
-Dinu Sreekumar
-www.linkedin.com/in/dinu-sreekumar
+Feel free to connect with me for any questions, feedback, or collaborations on this project!
+
+* **LinkedIn:** [Dinu Sreekumar](https://www.linkedin.com/in/dinu-sreekumar)
